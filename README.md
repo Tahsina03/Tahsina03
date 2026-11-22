@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Tahsina Fariha Ohi
 
-<!--
-**Tahsina03/Tahsina03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS student in Statistics at **Ball State University** (Muncie, Indiana). I use statistics to answer real health questions.
 
-Here are some ideas to get you started:
+My thesis, advised by Dr. Munni Begum, uses **competing risk survival analysis** to study cardiovascular disease mortality with data from the National Longitudinal Mortality Study (NLMS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+- Survival analysis and competing risks
+- Bayesian methods for health data
+- Health inequality and decomposition methods
+- Survey data analysis and multiple imputation
+
+### Publications
+1. Hossain, M. I., Rahman, T., Sadia, T. S., Abdus, A., Sarkar, S., Khan, M., **Ohi, T. F.**, & Haq, I. (2024). Survival analysis of early intention of antenatal care among women in Bangladesh. *Scientific Reports*. [doi:10.1038/s41598-024-55443-5](https://doi.org/10.1038/s41598-024-55443-5)
+2. Hossain, M. I., Gupta, M. D., **Ohi, T. F.**, & Rahman, M. M. Bayesian analysis of non-communicable diseases risk factors: A focus on the lower-educated population in Bangladesh. *International Health*. [doi:10.1093/inthealth/ihae087](https://doi.org/10.1093/inthealth/ihae087)
+3. Sarkar, S., Tareq, M., **Ohi, T. F.**, & Hossain, M. I. (2026). Exploring nutritional status determinants among adult men in Bangladesh: A multinomial logistic regression approach. *Acta Psychologica*. [doi:10.1016/j.actpsy.2026.107235](https://doi.org/10.1016/j.actpsy.2026.107235)
+
+### Tools
+R · SAS · Python · STATA · SPSS · Minitab
+
+### Find me
+[LinkedIn](https://www.linkedin.com/in/tahsina-fariha-ohi-a58510250/) · [Google Scholar](https://scholar.google.com/citations?user=0kH9ZwEAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Tahsina-Ohi)
