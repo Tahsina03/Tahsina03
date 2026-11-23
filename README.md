@@ -2,7 +2,7 @@
 
 MS student in Statistics at **Ball State University** (Muncie, Indiana). I use statistics to answer real health questions.
 
-My thesis, advised by Dr. Munni Begum, uses **competing risk survival analysis** to study cardiovascular disease mortality with data from the National Longitudinal Mortality Study (NLMS).
+My thesis uses **competing risk survival analysis** to study cardiovascular disease mortality with data from the National Longitudinal Mortality Study (NLMS).
 
 ### Research interests
 - Survival analysis and competing risks
