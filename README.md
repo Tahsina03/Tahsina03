@@ -1,8 +1,8 @@
 ## Hi, I'm Tahsina Fariha Ohi
 
-MS student in Statistics at Ball State University (Muncie, Indiana). I use statistics to answer real health questions.
+MS student in Statistics at **Ball State University** (Muncie, Indiana). I use statistics to answer real health questions.
 
-My thesis **competing risk survival analysis** to study cardiovascular disease mortality with data from the National Longitudinal Mortality Study (NLMS).
+My thesis, advised by Dr. Munni Begum, uses **competing risk survival analysis** to study cardiovascular disease mortality with data from the National Longitudinal Mortality Study (NLMS).
 
 ### Research interests
 - Survival analysis and competing risks
@@ -13,6 +13,7 @@ My thesis **competing risk survival analysis** to study cardiovascular disease m
 ### Projects
 | Project | Methods |
 |---|---|
+| [NHANES: survey-weighted analysis of high blood pressure](https://github.com/Tahsina03/nhanes-survey-hypertension) | Complex survey design, design effects, svyglm vs glm |
 | [Competing risks in MGUS](https://github.com/Tahsina03/competing-risks-mgus) | Aalen-Johansen cumulative incidence, Gray's test, cause-specific Cox vs Fine-Gray |
 | [Bayesian Weibull survival](https://github.com/Tahsina03/bayesian-weibull-survival) | Weibull AFT model, Metropolis sampler written from scratch, R-hat and ESS checks |
 | [Blinder-Oaxaca decomposition](https://github.com/Tahsina03/oaxaca-blinder-birthweight) | Threefold, twofold and detailed decomposition with bootstrap CIs |
